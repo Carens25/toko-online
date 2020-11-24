@@ -4,9 +4,9 @@
     <div class="container">
     <div class="row align-items-start align-items-md-center justify-content-end">
         <div class="col-md-5 text-center text-md-left pt-5 pt-md-0">
-        <h1 class="mb-2">Cari Kebutuhan Olahraga Kamu Di Sini</h1>
+        <h1 class="mb-2">Temukan Berbagai Aksesoris Gaya Disini</h1>
         <div class="intro-text text-center text-md-left">
-            <p class="mb-4">Alat olahraga disini terjamin kualitasnya dan tentunya barangnya juga original bukan kw. </p>
+            <p class="mb-4">Semua Barang Disini Terjamin Akan Kualitasnya</p>
             <p>
             <a href="{{ route('user.produk') }}" class="btn btn-sm btn-primary">Belanja Sekarang</a>
             </p>
@@ -24,8 +24,8 @@
             <span class="icon-truck"></span>
         </div>
         <div class="text">
-            <h2 class="text-uppercase">Pengiriman</h2>
-            <p>Pengiriman bisa ke seluruh wilayah indonesia dengan kurir JNE</p>
+            <h2 class="text-uppercase">Delivery</h2>
+            <p>Melayani Pengiriman Seluruh Indonesia dengan Kurir Kami yang Berkualitass</p>
         </div>
         </div>
         <div class="col-md-6 col-lg-4 d-lg-flex mb-4 mb-lg-0 pl-4" data-aos="fade-up" data-aos-delay="100">
@@ -33,8 +33,8 @@
             <span class="icon-star"></span>
         </div>
         <div class="text">
-            <h2 class="text-uppercase">Kualitas Oke</h2>
-            <p>Kualitas barangnya terjamin karena semuanya disini original bukan kw.</p>
+            <h2 class="text-uppercase">Quality</h2>
+            <p>Kualitas Barang Terjamin Original Produk Diaz</p>
         </div>
         </div>
         <div class="col-md-6 col-lg-4 d-lg-flex mb-4 mb-lg-0 pl-4" data-aos="fade-up" data-aos-delay="200">
@@ -42,8 +42,8 @@
             <span class="icon-security"></span>
         </div>
         <div class="text">
-            <h2 class="text-uppercase">Keamanan</h2>
-            <p>Kami menjamin keamanan dalam pengiriman barang sampai diterima oleh anda.</p>
+            <h2 class="text-uppercase">Secure</h2>
+            <p>Kami Menjamin Keamanan dalam Pengiriman Barang Sampai Diterima oleh Anda.</p>
         </div>
         </div>
     </div>

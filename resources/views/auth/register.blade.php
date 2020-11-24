@@ -4,7 +4,7 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Purple Admin</title>
+    <title> Registrasi</title>
     <!-- plugins:css -->
     <link rel="stylesheet" href="{{ asset('adminassets') }}/assets/vendors/mdi/css/materialdesignicons.min.css">
     <link rel="stylesheet" href="{{ asset('adminassets') }}/assets/vendors/css/vendor.bundle.base.css">
@@ -28,8 +28,8 @@
                 <div class="brand-logo">
                   <img src="{{ asset('adminassets') }}/assets/images/logo.svg">
                 </div>
-                <h4>New here?</h4>
-                <h6 class="font-weight-light">Signing up is easy. It only takes a few steps</h6>
+                <h4>Anak Baru ya?</h4>
+                <h6 class="font-weight-light">Yaudah mending lu daftar sini buat belanja disini dan habiskan uang kau</h6>
                 <form class="pt-3" method="POST" action="{{ route('register') }}">
                 @csrf
                   <div class="form-group">
@@ -67,13 +67,13 @@
                   <div class="mb-4">
                     <div class="form-check">
                       <label class="form-check-label text-muted">
-                        <input type="checkbox" class="form-check-input"> I agree to all Terms & Conditions </label>
+                        <input type="checkbox" class="form-check-input"> Oke saya setuju untuk selalu belanja dan habiskan uang saya disini😁</label>
                     </div>
                   </div>
                   <div class="mt-3">
                     <button type="submit" class="btn btn-block btn-gradient-primary btn-lg font-weight-medium auth-form-btn">Daftar</button>
                   </div>
-                  <div class="text-center mt-4 font-weight-light"> Already have an account? <a href="login.html" class="text-primary">Login</a>
+                  <div class="text-center mt-4 font-weight-light"> Udah punya akun? <a href="login.html" class="text-primary">Login</a>
                   </div>
                 </form>
               </div>

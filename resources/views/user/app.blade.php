@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Fikri Sport &mdash; Toko Olahraga Online </title>
+    <title>Diaz &mdash; Official Store </title>
+    <link rel="icon" href="{!! asset('assets/wolf.png') !!}"/>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -38,7 +39,7 @@
 
             <div class="col-12 mb-3 mb-md-0 col-md-4 order-1 order-md-2 text-center">
               <div class="site-logo">
-                <a href="index.html" class="js-logo-clone">FikriSport</a>
+                <a href="index.html" class="js-logo-clone">Diaz Store </a>
               </div>
             </div>
 
@@ -155,7 +156,7 @@
                   <li><a href="#">Dropshipping</a></li>
                   <li><a href="#">Website development</a></li>
                 </ul>
-              </div>
+              </div>  
               <div class="col-md-6 col-lg-4">
                 <ul class="list-unstyled">
                   <li><a href="#">Point of sale</a></li>
@@ -169,15 +170,15 @@
             <div class="block-5 mb-5">
               <h3 class="footer-heading mb-4">Contact Info</h3>
               <ul class="list-unstyled">
-                <li class="address">Jalan sukses menuju dunia akhirat</li>
+                <li class="address"><a href="https://www.google.com/search?q=louis%20vuitton%20store&oq=louis+vuitton+store&aqs=chrome..69i57j0l7.9804j1j7&sourceid=chrome&ie=UTF-8&safe=strict&tbs=lf:1,lf_ui:4&tbm=lcl&sxsrf=ALeKk0040Zq6yy7ebxsfQnnorlLgrX815g:1605636896185&rflfq=1&num=10&rldimm=17121967522002370471&lqi=ChNsb3VpcyB2dWl0dG9uIHN0b3JlIgOIAQFaKgoTbG91aXMgdnVpdHRvbiBzdG9yZSITbG91aXMgdnVpdHRvbiBzdG9yZQ&ved=2ahUKEwjg_tbGl4rtAhXaZSsKHfLiABQQvS4wB3oECAoQGg&rlst=f#rlfi=hd:;si:17121967522002370471,l,ChNsb3VpcyB2dWl0dG9uIHN0b3JlIgOIAQFaKgoTbG91aXMgdnVpdHRvbiBzdG9yZSITbG91aXMgdnVpdHRvbiBzdG9yZQ;mv:[[-6.1909241,106.823709],[-6.2274798,106.797167]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!2m1!1e3!3sIAE,lf:1,lf_ui:4">Diaz Store Plaza Indonesia</li>
                 <li class="phone"><a href="tel://23923929210">+62 3392 3929 210</a></li>
-                <li class="email">sport@gmail.com</li>
+                <li class="email">DiazStore@hotmail.com</li>
               </ul>
             </div>
 
             <div class="block-7">
               <form action="#" method="post">
-                <label for="email_subscribe" class="footer-heading">Subscribe</label>
+                <label for="email_subscribe" class="footer-heading">Berlangganan</label>
                 <div class="form-group">
                   <input type="text" class="form-control py-4" id="email_subscribe" placeholder="Email">
                   <input type="submit" class="btn btn-sm btn-primary" value="Send">
@@ -190,7 +191,7 @@
           <div class="col-md-12">
             <p>
             <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-            Copyright &copy;<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank" class="text-primary">Colorlib</a>
+            Copyright &copy;<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>document.write(new Date().getFullYear());</script> All rights reserved | This Project made with ❤ by <a href="https://www.facebook.com/Valentino.Raizel/" target="_blank" class="text-primary">Saintnettaaa🐱‍👤</a>
             <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
             </p>
           </div>
